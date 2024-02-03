@@ -28,7 +28,7 @@ public static void main (String[] args)
 		// get the user data
   		System.out.println("Enter the competitor's name: ");
   		name = scan.nextLine();
-  		System.out.println("\n\t\tOlympic Javelin Throws\n\tEnter the distances, in meters, for " + name);
+  		System.out.println("\n\t\tOlympic Javelin Throws\n\tEnter the disrrrrrtances, in meters, for " + name);
   		System.out.println("\nPlease enter the distance for throw 1: ");
   		throw1 = scan.nextDouble();
   		System.out.println("Please enter the distance for throw 2: ");
